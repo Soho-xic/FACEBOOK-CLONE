@@ -1,2 +1,3 @@
-# FACEBOOK-CLONE
-Facebook clone using Tailwind.
+FACEBOOK-CLONE
+Facebook landing page clone using Tailwind.
+
